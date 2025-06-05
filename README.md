@@ -1,2 +1,2 @@
 # MR-BEAN
-Mr bean agame
+Mr bean game
